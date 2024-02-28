@@ -1,27 +1,31 @@
-# AngularBuzzfeed
+# 🚀 Angular Buzzfeed Quiz Clone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+## Descrição do Projeto
 
-## Development server
+Este é um projeto de clone do Buzzfeed Quiz desenvolvido utilizando Angular. A ideia é recriar a experiência interativa dos quizzes do Buzzfeed, permitindo aos usuários responderem a uma série de perguntas e receberem um resultado personalizado com base em suas respostas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Funcionalidades Principais
 
-## Code scaffolding
+- **🤔 Perguntas Interativas:** Os usuários podem responder a uma variedade de perguntas interativas.
+- **🎉 Resultados Personalizados:** Com base nas respostas, os usuários receberão um resultado personalizado.
+- **🚀 Navegação Amigável:** Uma interface intuitiva e amigável para uma experiência de usuário suave.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tecnologias Utilizadas
 
-## Build
+- **🅰️ Angular:** Framework front-end utilizado para a construção da aplicação.
+- **🎨 HTML/CSS:** Para a estruturação e estilização da interface.
+- **🚀 TypeScript:** Linguagem de programação utilizada com Angular para desenvolvimento mais robusto.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Instruções de Execução
 
-## Running unit tests
+Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Contribuição
 
-## Running end-to-end tests
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar o projeto.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Licença
 
-## Further help
+Este projeto está licenciado sob a Licença MIT.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Nota: Este projeto é um clone do Buzzfeed Quiz desenvolvido com fins educacionais e não possui afiliação oficial com o Buzzfeed.
